@@ -1,0 +1,9 @@
+.path {
+	transition: transform 0.2s;
+}
+
+.path:hover {
+	transform: scale(
+		1.05
+	);
+}
